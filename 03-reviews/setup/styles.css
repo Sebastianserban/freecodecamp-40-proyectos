@@ -183,6 +183,7 @@ main {
   box-shadow: var(--light-shadow);
   transition: var(--transition);
   text-align: center;
+  margin: 20%;
 }
 .review:hover {
   box-shadow: var(--dark-shadow);
